@@ -34,7 +34,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     '8000-debbieherridge-test-n63ek09kdw7.ws-eu106.gitpod.io',
-    "project.herokuapp.com",
+    "deploymenttestapp-548a8cdf23e5.herokuapp.com",
 ]
 
 
